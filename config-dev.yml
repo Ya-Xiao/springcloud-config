@@ -1,1 +1,3 @@
 # 开发环境下的配置文件
+config:
+  info: "master breach, springcloud-config/config-dev.yml version=1"
